@@ -22,6 +22,7 @@
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE-3rd-PARTIES" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="http" type="PLAIN_TEXT" />
